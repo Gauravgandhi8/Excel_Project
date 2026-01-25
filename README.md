@@ -55,5 +55,3 @@ This project was created to:
 * Practice data cleaning and transformation
 * Perform analysis using Pivot Tables
 * Build a clear and simple dashboard for insights
-
-Just tell me the vibe 😄
